@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.imgur.com/WMjwOVg.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-using-tailwind-css-ieIc7gbQ3X](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-using-tailwind-css-ieIc7gbQ3X)
+- Live Site URL: [https://huddle-alternating-blocks-landing.netlify.app/](https://huddle-alternating-blocks-landing.netlify.app/)
 
 ## My process
 
